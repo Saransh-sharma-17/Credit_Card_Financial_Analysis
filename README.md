@@ -14,6 +14,11 @@ To develop a comprehensive credit card weekly dashboard which provides real-time
 7. **Charts**: Created visually engaging charts that clearly represent complex store data.
 8. **Filters**: Applied filters and slicers to allow users to explore data based on specific criteria.
 
+**WoW change:**
+- Revenue increased by 28.8%,
+- Total Transaction Amt & Count increased by 25.95% & 3.28%
+- Customer count increased by 11.35%
+
 **Useful Insights:**
 - Overall revenue is 56.5M
 - Total interest is 8M
